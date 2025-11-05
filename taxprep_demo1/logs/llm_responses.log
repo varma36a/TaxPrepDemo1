@@ -1,0 +1,209 @@
+----
+TIME: 2025-10-26T07:19:02Z
+MODEL: azure
+RAW:
+
+PARSED:
+null
+----
+
+----
+TIME: 2025-10-26T07:19:08Z
+MODEL: azure
+RAW:
+
+PARSED:
+null
+----
+
+----
+TIME: 2025-10-26T07:19:13Z
+MODEL: azure
+RAW:
+
+PARSED:
+null
+----
+
+----
+TIME: 2025-10-26T07:19:19Z
+MODEL: azure_langchain
+RAW:
+
+PARSED:
+null
+----
+
+----
+TIME: 2025-10-26T07:19:25Z
+MODEL: azure
+RAW:
+
+PARSED:
+null
+----
+
+----
+TIME: 2025-10-26T07:19:32Z
+MODEL: azure
+RAW:
+
+PARSED:
+null
+----
+
+----
+TIME: 2025-10-26T07:19:39Z
+MODEL: azure
+RAW:
+
+PARSED:
+null
+----
+
+----
+TIME: 2025-10-26T07:19:45Z
+MODEL: azure_langchain
+RAW:
+{"label":"Dissatisfied","confidence":0.88,"top_drivers":[{"factor":"last_feedback_text","impact":"High","explain":"Client explicitly reported 'Late delivery' indicating dissatisfaction"},{"factor":"error_rate_pct","impact":"High","explain":"Error rate at 13% is above typical acceptable thresholds"},{"factor":"communication_count","impact":"Medium","explain":"Zero communications suggests poor engagement contributing to dissatisfaction"}]}
+PARSED:
+{
+  "label": "Dissatisfied",
+  "confidence": 0.88,
+  "top_drivers": [
+    {
+      "factor": "last_feedback_text",
+      "impact": "High",
+      "explain": "Client explicitly reported 'Late delivery' indicating dissatisfaction"
+    },
+    {
+      "factor": "error_rate_pct",
+      "impact": "High",
+      "explain": "Error rate at 13% is above typical acceptable thresholds"
+    },
+    {
+      "factor": "communication_count",
+      "impact": "Medium",
+      "explain": "Zero communications suggests poor engagement contributing to dissatisfaction"
+    }
+  ]
+}
+----
+
+----
+TIME: 2025-10-26T07:19:52Z
+MODEL: azure
+RAW:
+
+PARSED:
+null
+----
+
+----
+TIME: 2025-10-26T07:19:58Z
+MODEL: azure
+RAW:
+
+PARSED:
+null
+----
+
+----
+TIME: 2025-10-26T07:20:05Z
+MODEL: azure
+RAW:
+
+PARSED:
+null
+----
+
+----
+TIME: 2025-10-26T07:20:11Z
+MODEL: azure_langchain
+RAW:
+
+PARSED:
+null
+----
+
+----
+TIME: 2025-10-26T07:20:18Z
+MODEL: azure
+RAW:
+
+PARSED:
+null
+----
+
+----
+TIME: 2025-10-26T07:20:24Z
+MODEL: azure
+RAW:
+
+PARSED:
+null
+----
+
+----
+TIME: 2025-10-26T07:20:31Z
+MODEL: azure
+RAW:
+
+PARSED:
+null
+----
+
+----
+TIME: 2025-10-26T07:20:38Z
+MODEL: azure_langchain
+RAW:
+
+PARSED:
+null
+----
+
+----
+TIME: 2025-10-26T07:20:44Z
+MODEL: azure
+RAW:
+
+PARSED:
+null
+----
+
+----
+TIME: 2025-10-26T07:20:50Z
+MODEL: azure
+RAW:
+
+PARSED:
+null
+----
+
+----
+TIME: 2025-10-26T07:20:57Z
+MODEL: azure
+RAW:
+
+PARSED:
+null
+----
+
+----
+TIME: 2025-10-26T07:21:03Z
+MODEL: azure_langchain
+RAW:
+
+PARSED:
+null
+----
+
+----
+TIME: 2025-10-26T07:21:09Z
+MODEL: azure
+RAW:
+
+PARSED:
+null
+----
+
